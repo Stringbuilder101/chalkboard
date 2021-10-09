@@ -76,3 +76,4 @@ Homepage
 <img src="Image (7).jpeg">
 <img src="Image (8).jpeg">
 <img src="Image (9).jpeg">
+This is good pratice for making a web-site in line with stakeholder requirements.I expanded on the first(and may be final) draft of wireframes and sitemap, and the markdown.
