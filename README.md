@@ -62,3 +62,4 @@ Homepage
 <img src="admincourse.jpeg">
 <img src="roster.jpeg">
 <img src="enrollpage.jpeg">
+<img src="assignmentpage.jpeg">
