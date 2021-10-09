@@ -67,7 +67,7 @@ Homepage
 <img src="asstspage.jpeg">
 <img src="coursepageinstr.jpeg">
 <img src="Image.jpeg">
-<img src="Image (1).jpeg">
+<!--<img src="Image (1).jpeg">-->
 <img src="Image (2).jpeg">
 <img src="Image (3).jpeg">
 <img src="Image (4).jpeg">
