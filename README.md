@@ -77,3 +77,30 @@ Homepage
 <img src="Image (8).jpeg">
 <img src="Image (9).jpeg">
 This is good pratice for making a web-site in line with stakeholder requirements.I expanded on the first(and may be final) draft of wireframes and sitemap, and the markdown.
+
+
+Homepage
+   * Browse Courses
+      * Search
+      * All courses
+      * Serach filter
+   * Log In
+      * Student
+         * Browse Courses
+            * Course Description
+            * Request for enrollment
+         * DashBoard
+            * Pending Assignment
+            * Enrolled Courses
+               * Course Materials
+               * Lecture Videos
+               * Assignments
+      * Instructor
+         * Request for access
+         * DashBoard
+            * New Course
+               * Fill the information
+            * Number of courses teaching
+               * Remove, uodate
+               * Roster of students     
+                  
