@@ -55,4 +55,4 @@ Homepage
    * LOGO
    * Locations
       * Map 
-<img src="0001.jpg">
+<img src="01.jpg">
