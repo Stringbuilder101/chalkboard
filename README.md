@@ -60,3 +60,4 @@ Homepage
 <img src="studentcoursepage.jpeg">
 <img src="courses.jpeg">
 <img src="admincourse.jpeg">
+<img src="roster.jpeg">
